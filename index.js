@@ -213,7 +213,7 @@ dogexeon.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
    // owner
 
 
-    const htod = "916909137213@s.whatsapp.net"
+    const htod = "+1 (669) 271-7791@s.whatsapp.net"
 
     
 
